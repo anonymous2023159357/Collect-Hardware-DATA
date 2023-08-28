@@ -19,7 +19,7 @@ sudo chmod ugo+rwx devicequery.csv // read only -> write & read only
 3. ./deviceQuery
 
 
-< 추가해준 부분 간단히 >
+< The part I added >
 
 ```
 #include <fstream> 
