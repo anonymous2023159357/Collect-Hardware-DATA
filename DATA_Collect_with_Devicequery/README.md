@@ -19,7 +19,7 @@ sudo chmod ugo+rwx devicequery.csv // read only -> write & read only
 4. ./deviceQuery
 
 
-< finally save the devicequery.csv locally >
+< Save the devicequery.csv >
 ```
 scp -i /Users/yuser/desktop/pemname.pem -r ubuntu@[ip]:/usr/local/cuda-11.4/samples/1_Utilities/deviceQuery/devicequery.csv  .
 ```  
