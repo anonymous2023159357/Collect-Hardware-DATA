@@ -14,7 +14,7 @@ sudo chmod ugo+rwx devicequery.csv // read only -> write & read only
 
 < Compile >
 
-1. deviceQuery.cpp 수정
+1. deviceQuery.cpp change to Change_deviceQuery_For_DataCollect.cpp
 2. sudo make ( If an error occurs, ```sudo make clean``` )
 4. ./deviceQuery
 
